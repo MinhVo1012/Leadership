@@ -1,42 +1,52 @@
 ---
-title: "Technology Leadership"
+title: "Technology Roadmap and Risk Management"
 author: "Minh Vo"
-tag: ["education", "engineering", "leadership"]
+tag: ["education", "engineering", "leadership", "techonology", "roadmap"]
 ---
-# **Leadership Approaches**
+# **What is a Technology Roadmap?**
+
+• A technology roadmap is the collectivevisionof the opportunitiesfor technology to serve a business
+
+• A mechanismfor othe identification, justification, planned evolution, and...oorchestration of technology...oto enhance business performance
+
+## **The dual objectives of a technology roadmap**
+
+• External benefitsoRelate to aligning technology with the business and result in technology effectiveness
+
+• Internal benefitsoRelate to technology directly and result in technology efficiency
+
+### **External Benefits (Effectiveness)**
+
+• Identify and address technology gap
+
+• Reduce complexity in management and decision making
+
+• Enhance inter-operability of business functionality
+
+• Respond to market changes
+
+• Preserve investments in technologies
+
+• Focus technology investments (‘best bang for the buck’) 
+
+• Simplify the response to legislation
+
+• Reduce deployment difficulties and increase speed of implementation
+
+
+# **Technology risks**
+
+• Risk–the unpredictable, unforeseen, or sometimes unfortunate events; they ultimately have impacts on the business
+
+• Different types of risk:
+  
+  o Inherent: raw or untreated risks
+  
+  o Control: risks caused by weaknesses in controls
+  
+  o Detection: risks caused by failing to detect (e.g. low sampling)
+  
+  o Residual: after-treatment risks whose level is equal to or lower than acceptance level
 
 
 
-## **Trait Approaches**
-
-
-
-- This approach focuses exclusively on the leader and their characteristics
-- It defines the traits that leaders exhibit and who has these traits
-- It doesn’t answer what kind of leadership is needed or what leaders should do
-
-
-
-## **Skill Approaches**
-Suggests that skills, knowledge and abilities that are required for a leader to be effective can be learned and developed.
-
-
-
-- Top management Technical skill (Low), Human skill (High), Conceptual skill (High)
-
-
-
-- Middle management Technical skill (High), Human skill (High), Conceptual skill (High)
-
-
-
-- Supervisory managment Technical skill (Low), Human skill (High), Conceptual skill (Low)
-
-
-
-## **Situational Approaches**
-There are different situational leadership approaches:
-- Directing
-- Coaching
-- Delegating
-- Supporting
