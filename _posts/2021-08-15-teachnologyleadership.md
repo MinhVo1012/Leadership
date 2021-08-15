@@ -2,6 +2,8 @@
 title: "Technology Roadmap and Risk Management"
 author: "Minh Vo"
 tag: ["education", "engineering", "leadership", "techonology", "roadmap"]
+
+
 ---
 # **What is a Technology Roadmap?**
 
